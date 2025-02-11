@@ -62,7 +62,7 @@ fetch("user/iconData-1.txt")
 // Function to fetch and display the file content Icon data
 async function displayFileContent() {
   try {
-    const response = await fetch("set-1/iconData-1.txt");
+    const response = await fetch("user/iconData-1.txt");
     if (!response.ok) {
       throw new Error(`HTTP error! status: ${response.status}`);
     }
