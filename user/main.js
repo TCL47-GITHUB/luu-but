@@ -5,7 +5,16 @@ var prefix = "lb ";
 // Danh sách icon mới
 var newIcons = [
   "icon-logo",
-
+  "icon-chat-group",
+  "icon-chat-group-solid",
+  "icon-directory",
+  "icon-message-square-warning-soli",
+  "icon-page-info",
+  "icon-page-info-solid",
+  "icon-smile",
+  "icon-smile-solid",
+  "icon-message-warning",
+  "icon-message-warning-solid",
 ];
 
 // read iconData

@@ -1,10 +1,10 @@
 @font-face {
   font-family: 'font-icon-luu-but';
-  src:  url('fonts/font-icon-luu-but.eot?nt5m70');
-  src:  url('fonts/font-icon-luu-but.eot?nt5m70#iefix') format('embedded-opentype'),
-    url('fonts/font-icon-luu-but.ttf?nt5m70') format('truetype'),
-    url('fonts/font-icon-luu-but.woff?nt5m70') format('woff'),
-    url('fonts/font-icon-luu-but.svg?nt5m70#font-icon-luu-but') format('svg');
+  src:  url('fonts/font-icon-luu-but.eot?j9mwve');
+  src:  url('fonts/font-icon-luu-but.eot?j9mwve#iefix') format('embedded-opentype'),
+    url('fonts/font-icon-luu-but.ttf?j9mwve') format('truetype'),
+    url('fonts/font-icon-luu-but.woff?j9mwve') format('woff'),
+    url('fonts/font-icon-luu-but.svg?j9mwve#font-icon-luu-but') format('svg');
   font-weight: normal;
   font-style: normal;
   font-display: block;
@@ -25,6 +25,30 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-chat-group:before {
+  content: "\e94e";
+}
+.icon-chat-group-solid:before {
+  content: "\e94f";
+}
+.icon-directory:before {
+  content: "\e950";
+}
+.icon-message-square-warning-soli:before {
+  content: "\e951";
+}
+.icon-page-info:before {
+  content: "\e952";
+}
+.icon-page-info-solid:before {
+  content: "\e953";
+}
+.icon-smile:before {
+  content: "\e954";
+}
+.icon-smile-solid:before {
+  content: "\e955";
+}
 .icon-message-warning:before {
   content: "\e900";
 }

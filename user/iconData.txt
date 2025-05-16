@@ -1,4 +1,12 @@
 const iconData = [
+{ code: "lb icon-chat-group" },
+{ code: "lb icon-chat-group-solid" },
+{ code: "lb icon-directory" },
+{ code: "lb icon-message-square-warning-soli" },
+{ code: "lb icon-page-info" },
+{ code: "lb icon-page-info-solid" },
+{ code: "lb icon-smile" },
+{ code: "lb icon-smile-solid" },
 { code: "lb icon-message-warning" },
 { code: "lb icon-message-warning-solid" },
 { code: "lb icon-more-h" },
