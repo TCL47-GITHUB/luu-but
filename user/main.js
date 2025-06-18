@@ -4,6 +4,8 @@ var fontName = "user-luu-but";
 var prefix = "lb ";
 // Danh sách icon mới
 var newIcons = [
+  "icon-block",
+  "icon-unblock",
   "icon-group-user-2",
   "icon-group-user-2-solid",
   "icon-suitcase",
