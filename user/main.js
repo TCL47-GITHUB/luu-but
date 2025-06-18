@@ -4,17 +4,33 @@ var fontName = "user-luu-but";
 var prefix = "lb ";
 // Danh sách icon mới
 var newIcons = [
+  "icon-group-user-2",
+  "icon-group-user-2-solid",
+  "icon-suitcase",
+  "icon-suitcase-solid",
+  "icon-earth",
+  "icon-earth-solid",
+  "icon-group-user",
+  "icon-group-user-solid",
+  "icon-link",
+  "icon-share",
+  "icon-share-solid",
+  "icon-check",
+  "icon-plus",
+  "icon-list",
+  "icon-list-solid",
+  "icon-push-pin",
+  "icon-push-pin-solid",
+  "icon-bookmark",
+  "icon-bookmark-solid",
+  "icon-twinkle-solid",
   "icon-logo",
   "icon-chat-group",
   "icon-chat-group-solid",
   "icon-directory",
-  "icon-message-square-warning-soli",
+  "icon-message-square-warning-solid",
   "icon-page-info",
   "icon-page-info-solid",
-  "icon-smile",
-  "icon-smile-solid",
-  "icon-message-warning",
-  "icon-message-warning-solid",
 ];
 
 // read iconData
